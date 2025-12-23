@@ -1,5 +1,5 @@
 package com.example.lyceum_saturday10_2025.features.goods.presentation.components
-
+ 
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.Row
 import androidx.compose.foundation.layout.Spacer
